@@ -1,4 +1,4 @@
-# recursos-dev
+# Recursos Dev
 Algunos recursos para desarrolador, porque siempre se me olvidan
 
 ## Css
