@@ -3,6 +3,7 @@ Algunos recursos para desarrolador, porque siempre se me olvidan
 
 ## Css
 - [Gradientes para tailwind](https://hypercolor.dev/)
+- [Animaciones css rapido!](https://xsgames.co/animatiss/)
 
 ## Fonts + icons
 - [Satoshi font](https://www.fontshare.com/fonts/satoshi)
