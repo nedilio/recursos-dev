@@ -10,3 +10,18 @@ Algunos recursos para desarrolador, porque siempre se me olvidan
 ## Fonts + icons
 - [Satoshi font](https://www.fontshare.com/fonts/satoshi)
 - [Muchos iconos!](https://tabler-icons.io/)
+
+## Teoria diseno
+- [Google Design](https://design.google/resources/)
+
+## Portafolios inspo
+- [Kai](http://kaiwei.design/)
+- [Lisa](http://www.lisasuefischer.com/)
+- [Kartk](http://www.kartikrao.in/)
+- [Tongfang Sun](https://www.tongfangsun.xyz)
+
+## Busca Pega
+- [Carlacocn wifi - remote](https://twitter.com/carlaconwifi)
+- [Bolsa nacional Frontend](https://www.bne.cl/ofertas?mostrar=empleo&textoLibre=frontend&fechaIniPublicacion=&numPaginaRecuperar=1&numResultadosPorPagina=10&clasificarYPaginar=true&totalOfertasActivas=6032&idComuna=)
+- [Laborum Frontend](https://www.laborum.cl/empleos-busqueda-frontend.html)
+- [Trabajando Frontend](https://www.trabajando.cl/trabajo-empleo/frontend)
