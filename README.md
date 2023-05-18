@@ -12,6 +12,9 @@ Algunos recursos para desarrolador, porque siempre se me olvidan
 - [Muchos iconos!](https://tabler-icons.io/)
 - [Iconoir](https://iconoir.com/)
 
+## JS Lib
+- [Slider](https://swiperjs.com/)
+
 ## Teoria diseno
 - [Google Design](https://design.google/resources/)
 
