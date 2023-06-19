@@ -7,6 +7,7 @@ Algunos recursos para desarrolador, porque siempre se me olvidan
 - [Componentes tailwind](https://www.hyperui.dev/)
 - [clsx manejo condicional de clases](https://github.com/lukeed/clsx) - [Blog](https://janithrs.medium.com/conditional-class-rendering-in-react-using-clsx-b3bed12014cb)
 - [Animaciones Tailwind](https://www.tailwindcss-animated.com/)
+- [Componentes Tailwind react](https://rewind-ui.dev/)
 
 ## Fonts + icons
 - [Satoshi font](https://www.fontshare.com/fonts/satoshi)
