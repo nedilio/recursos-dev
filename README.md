@@ -17,7 +17,7 @@ Algunos recursos para desarrolador, porque siempre se me olvidan
 ## React
 - [Hooks para react](https://usehooks-ts.com/)
 - [Tremor componentes react tailwind](https://www.tremor.so/)
-
+- [La mejor forma de integrar supabase a nexjs](https://supabase.com/docs/guides/auth/auth-helpers/nextjs)
 ## JS Lib
 - [Slider](https://swiperjs.com/)
 
