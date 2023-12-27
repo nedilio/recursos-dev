@@ -16,7 +16,7 @@ Algunos recursos para desarrolador, porque siempre se me olvidan
 - [Iconoir](https://iconoir.com/)
 
 ## Images
--[Shots: enmarca tu proyecto](https://shots.so/)
+- [Shots: enmarca tu proyecto](https://shots.so/)
 
 ## React
 - [Hooks para react](https://usehooks-ts.com/)
