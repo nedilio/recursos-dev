@@ -8,11 +8,15 @@ Algunos recursos para desarrolador, porque siempre se me olvidan
 - [clsx manejo condicional de clases](https://github.com/lukeed/clsx) - [Blog](https://janithrs.medium.com/conditional-class-rendering-in-react-using-clsx-b3bed12014cb)
 - [Animaciones Tailwind](https://www.tailwindcss-animated.com/)
 - [Componentes Tailwind react](https://rewind-ui.dev/)
+- [Backgrounds css y tailwind](https://bg.ibelick.com)
 
 ## Fonts + icons
 - [Satoshi font](https://www.fontshare.com/fonts/satoshi)
 - [Muchos iconos!](https://tabler-icons.io/)
 - [Iconoir](https://iconoir.com/)
+
+## Images
+-[Shots: enmarca tu proyecto](https://shots.so/)
 
 ## React
 - [Hooks para react](https://usehooks-ts.com/)
