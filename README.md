@@ -9,6 +9,7 @@ Algunos recursos para desarrolador, porque siempre se me olvidan
 - [Animaciones Tailwind](https://www.tailwindcss-animated.com/)
 - [Componentes Tailwind react](https://rewind-ui.dev/)
 - [Backgrounds css y tailwind](https://bg.ibelick.com)
+- [Tooltip puro css](https://kushagra.dev/lab/hint/)
 
 ## Fonts + icons
 - [Satoshi font](https://www.fontshare.com/fonts/satoshi)
@@ -22,6 +23,7 @@ Algunos recursos para desarrolador, porque siempre se me olvidan
 - [Hooks para react](https://usehooks-ts.com/)
 - [Tremor componentes react tailwind](https://www.tremor.so/)
 - [La mejor forma de integrar supabase a nexjs](https://supabase.com/docs/guides/auth/auth-helpers/nextjs)
+- [Tanstack Table: tablas dinamicas](https://tanstack.com/table/latest)
 ## JS Lib
 - [Slider](https://swiperjs.com/)
 
